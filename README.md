@@ -11,3 +11,5 @@ Satellite Receivers Monitoring service - a service for collecting signal paramet
 
 A web application based Flask (Python 3). The service displays signal parameters received from satellite receivers. 
 [Link to github](https://github.com/dmshch/web-app-srm-service)
+
+![Monitoring page](https://github.com/dmshch/dmshch.github.io/blob/main/screenshots/monitoring.PNG)
