@@ -22,14 +22,14 @@ A web application based Flask (Python 3). The service displays signal parameters
 
 ##### Settings pages: 
 
-###### - global
+##### - global
 
 ![Global settings](https://github.com/dmshch/dmshch.github.io/blob/main/screenshots/global_set.PNG?raw=true)
 
-###### - users
+##### - users
 
 ![Users settings](https://github.com/dmshch/dmshch.github.io/blob/main/screenshots/users_set.PNG?raw=true)
 
-###### - receivers
+##### - receivers
 
 ![Receivers settings](https://github.com/dmshch/dmshch.github.io/blob/main/screenshots/receivers_set.PNG?raw=true)
