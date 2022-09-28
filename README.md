@@ -13,7 +13,7 @@ A web application based Flask (Python 3). The service displays signal parameters
 <br>
 <br>
 <b>Monitoring page:</b>
-<img border="1" src="https://github.com/dmshch/dmshch.github.io/blob/main/screen/monitoring.PNG?raw=true" alt="Monitoring page" >
+<a href="https://github.com/dmshch/dmshch.github.io/blob/main/screen/monitoring.PNG?raw=true"><img border="1" src="https://github.com/dmshch/dmshch.github.io/blob/main/screen/monitoring.PNG?raw=true" alt="Monitoring page"></a>
 <br>
 <b>Plot page:</b>
 <img border="1" src="https://github.com/dmshch/dmshch.github.io/blob/main/screen/plot.PNG?raw=true" alt="Plot page">
