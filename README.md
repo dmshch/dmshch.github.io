@@ -1,5 +1,3 @@
-# dmshch.github.io
-
 <h2>My projects</h2>
 <ul>
 <h3><li>srm-service</li></h3>
